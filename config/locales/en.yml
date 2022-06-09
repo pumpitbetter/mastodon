@@ -38,7 +38,8 @@ en:
       one: post
       other: posts
     status_count_before: Who published
-    tagline: <a href="https://pumpitbetter.com/workouts">pumpitbetter.com</a> fitness community
+    tagline: pumpitbetter.com fitness community
+    tagline_html: <a href="https://pumpitbetter.com">pumpitbetter.com</a> fitness community
     terms: Terms of service
     unavailable_content: Moderated servers
     unavailable_content_description:

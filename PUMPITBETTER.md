@@ -15,10 +15,9 @@ git push
 ## Build and push own docker image
 
 docker build -t pumpitbetter/social:latest .
-docker build -t pumpitbetter/social:v3.5.3.6 .
-
+docker build -t pumpitbetter/social:v3.5.3.8 .
 docker push pumpitbetter/social:latest
-docker push pumpitbetter/social:v3.5.3.6
+docker push pumpitbetter/social:v3.5.3.8
 
 ## Run local development 
 https://www.howtoforge.com/how-to-install-mastodon-social-network-with-docker-on-ubuntu-1804/
