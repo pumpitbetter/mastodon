@@ -38,7 +38,7 @@
   "account.requested": "Odottaa hyväksyntää. Peruuta seuraamispyyntö klikkaamalla",
   "account.share": "Jaa käyttäjän @{name} profiili",
   "account.show_reblogs": "Näytä buustaukset käyttäjältä @{name}",
-  "account.statuses_counter": "{count, plural, one {{counter} Toot} other {{counter} Toots}}",
+  "account.statuses_counter": "{count, plural, one {{counter} Post} other {{counter} Posts}}",
   "account.unblock": "Salli @{name}",
   "account.unblock_domain": "Salli {domain}",
   "account.unblock_short": "Unblock",

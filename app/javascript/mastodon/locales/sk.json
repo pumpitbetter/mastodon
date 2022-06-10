@@ -38,7 +38,7 @@
   "account.requested": "Čaká na schválenie. Klikni pre zrušenie žiadosti",
   "account.share": "Zdieľaj @{name} profil",
   "account.show_reblogs": "Ukáž vyzdvihnutia od @{name}",
-  "account.statuses_counter": "{count, plural, one {{counter} Toot} other {{counter} Toots}}",
+  "account.statuses_counter": "{count, plural, one {{counter} Post} other {{counter} Posts}}",
   "account.unblock": "Odblokuj @{name}",
   "account.unblock_domain": "Prestaň skrývať {domain}",
   "account.unblock_short": "Odblokuj",
