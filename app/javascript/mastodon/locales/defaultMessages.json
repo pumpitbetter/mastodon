@@ -2169,6 +2169,14 @@
       {
         "defaultMessage": "See some suggestions",
         "id": "empty_column.home.suggestions"
+      },
+      {
+        "defaultMessage": "Feed",
+        "id": "column.feed"
+      },
+      {
+        "defaultMessage": "Workout",
+        "id": "column.workout"
       }
     ],
     "path": "app/javascript/mastodon/features/home_timeline/index.json"
